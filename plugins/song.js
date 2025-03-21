@@ -53,8 +53,8 @@ const video = async (m, Matrix) => {
         forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: '120363398040175935@newsletter',
-          newsletterName: "JawadTechX",
+          newsletterJid: '120363395257960673@newsletter',
+          newsletterName: "CHAMA MD",
           serverMessageId: 143
         }
       }
